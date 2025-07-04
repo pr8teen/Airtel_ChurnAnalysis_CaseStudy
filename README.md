@@ -87,6 +87,8 @@ Our approach follows a structured data science pipeline to deliver actionable in
 
 #### **5.3. Machine Learning Churn Prediction (Python - Random Forest)**
 
+**Colab Link:** [https://colab.research.google.com/drive/18bCru1SWGiC6n_nDB09wNJUmakw66Ea6?usp=sharing]
+
 **Goal:** To build a predictive model capable of identifying customers at high risk of churning in the future.
 
 * **Model:** A Random Forest Classifier was chosen for its robustness, ability to handle various data types, and strong performance in classification tasks. `class_weight='balanced'` was employed to manage class imbalance, ensuring the model effectively identifies the minority churn class.
